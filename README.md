@@ -14,16 +14,14 @@
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
+* [Predicting the Tags architecture (#Predicting the Tags Architecture)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+
 
 
 
@@ -55,7 +53,7 @@ git clone https:://github.com/FairozaAmira/Stack_Overflow_Tags_Prediction.git
 3. Run the `load_data.ipynb` files to partition the data into smaller parts if you train it using Google Colaboratory or depending on your computing resources.
 4. Run both other notebooks.
 
-### Predicting the Tags architecture
+## Predicting the Tags Architecture
 
 1. Data analysis
 2. Data preprocessing
@@ -80,5 +78,7 @@ Contributions are what make the open source community such an amazing place to b
 Distributed under the Apache 2.0 License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
-## [fairozaamira@gmail.com](fairozaamira@gmail.com) 
+## Contact
+
+[fairozaamira@gmail.com](fairozaamira@gmail.com) 
 
