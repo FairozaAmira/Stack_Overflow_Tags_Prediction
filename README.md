@@ -17,7 +17,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Predicting the Tags architecture (#Predicting the Tags Architecture)
+* [Predicting the Tags architecture] (#Predicting the Tags Architecture)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
